@@ -41,3 +41,7 @@ Ask the assistant: "List my GC AI projects." That calls `get_projects` and confi
 
 - [MCP server overview and tool reference](https://github.com/GC-AI-Inc/gc-ai-claude-plugin)
 - [GC AI](https://gc.ai)
+
+## Legal
+
+This plugin is provided under the MIT License, with no warranty. It is not part of the "Services" under the Service Agreement. Any use of the GC AI Platform through the plugin remains governed by [gc.ai/service-agreement](https://gc.ai/service-agreement) or [gc.ai/terms](https://gc.ai/terms), as applicable, and/or the customer's Order Form.
